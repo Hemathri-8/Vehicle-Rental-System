@@ -1,10 +1,10 @@
-# 🚗 Vehicle Rental System
+#  Vehicle Rental System
 
 A simple **Vehicle Rental System** developed in **Java** using basic programming concepts such as arrays, methods, loops, conditional statements, and user input using `Scanner`.
 
 This project allows customers to **rent and return cars or bikes** through a console-based menu.
 
-## 📌 Features
+##  Features
 
 * 🚘 Rent a car
 * 🏍️ Rent a bike
@@ -17,7 +17,7 @@ This project allows customers to **rent and return cars or bikes** through a con
 * 🚫 Prevent already-rented vehicles from being rented again
 * 📋 Display complete rental details
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 * **Java**
 * **Java Scanner**
@@ -36,7 +36,7 @@ Vehicle-Rental-System/
 └── README.md
 ```
 
-## 🚘 Available Vehicles
+##  Available Vehicles
 
 ### Cars
 
@@ -146,7 +146,7 @@ Selecting option `3` exits the program.
 Thank you for using Vehicle Rental System!
 ```
 
-## 🧠 Core Java Concepts Demonstrated
+##  Core Java Concepts Demonstrated
 
 This project demonstrates several important Core Java concepts.
 
@@ -253,7 +253,7 @@ Total Rent      : Rs.4500
 Vehicle rented successfully!
 ```
 
-## ⚠️ Current Limitations
+##  Current Limitations
 
 This is a **basic console-based Java project**, so it currently has some limitations:
 
@@ -266,7 +266,7 @@ This is a **basic console-based Java project**, so it currently has some limitat
 * Customer records are not permanently stored.
 * Data is lost when the program is closed.
 
-## 🚀 Future Improvements
+##  Future Improvements
 
 The project can be enhanced by adding:
 
@@ -282,7 +282,7 @@ The project can be enhanced by adding:
 * 🏢 Admin management system
 * 💾 Permanent storage of customer and vehicle data
 
-## 🎯 Learning Objective
+##  Learning Objective
 
 The main objective of this project is to understand and implement **Core Java programming concepts** by developing a simple real-world application.
 
@@ -304,7 +304,7 @@ User Input
 Application Logic
 ```
 
-## 👨‍💻 Author
+##  Author
 
 **Hemathri-8**
 
@@ -312,6 +312,6 @@ GitHub: **[@Hemathri-8](https://github.com/Hemathri-8)**
 
 If you found this project useful, feel free to ⭐ **star the repository**!
 
-## 📄 License
+##  License
 
 This project is created for **educational and learning purposes**.
